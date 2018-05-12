@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19846#Encyclopaedia-Britannica-11th-Edition-Volume-4-Part-4-Bulgaria--to--Calgary-
 gutenberg_bookshelf: Reference
 gutenberg_issued: '2006-11-17'
 gutenberg_type: Text
